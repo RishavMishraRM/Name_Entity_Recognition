@@ -1,21 +1,17 @@
 # Name-Entity-Recognition
 
-
 ## Workflows
 
- - constants
- - config_entity
- - artifact_entity
- - components
- - pipeline
- - app.py
-
-
+- constants
+- config_entity
+- artifact_entity
+- components
+- pipeline
+- app.py
 
 ## Live matarials docs
 
 [link](https://docs.google.com/document/d/1UFiHnyKRqgx8Lodsvdzu58LbVjdWHNf-uab2WmhE0A4/edit?usp=sharing)
-
 
 ## Git commands
 
@@ -27,7 +23,6 @@ git commit -m "Updated"
 git push origin main
 ```
 
-
 ## GCP Configuration
 
 ```bash
@@ -35,7 +30,6 @@ git push origin main
 
 gcloud init
 ```
-
 
 ## How to run?
 
@@ -55,13 +49,11 @@ pip install -r requirements.txt
 python app.py
 ```
 
-
 ## GCP CICD Deployment with CircleCI:
 
-- artifact registry  --> create a repository
+- artifact registry --> create a repository
 - change line 42,50,72,76,54 in circleci config
 - Opne circleci --> create a project
-
 
 ### Set Environment variables in CircleCI
 
@@ -76,6 +68,3 @@ GOOGLE_PROJECT_ID
 ```
 
 ## Create a VM instances & setup scripts
-
-
-

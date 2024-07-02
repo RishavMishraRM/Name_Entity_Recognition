@@ -10,6 +10,7 @@
 - app.py
 
 Pytorch
+DL
 
 ## Live matarials docs
 

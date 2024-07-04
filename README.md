@@ -9,6 +9,7 @@
 - pipeline
 - app.py
 
+ML - Pandas
 DL - Pytorch
 
 ## Live matarials docs

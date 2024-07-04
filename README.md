@@ -9,8 +9,7 @@
 - pipeline
 - app.py
 
-Pytorch
-DL
+DL - Pytorch
 
 ## Live matarials docs
 

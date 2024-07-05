@@ -11,7 +11,7 @@
 
 ML - Pandas, Python
 DL - Pytorch
-Deployment - AWS
+Deployment - AWS, Docker
 
 ## Live matarials docs
 

@@ -9,7 +9,7 @@
 - pipeline
 - app.py
 
-ML - Pandas, Python
+ML - Pandas, Python, Numpy
 DL - Pytorch, bert
 Deployment - AWS, Docker
 

@@ -10,7 +10,7 @@
 - app.py
 
 ML - Pandas, Python
-DL - Pytorch
+DL - Pytorch, bert
 Deployment - AWS, Docker
 
 ## Live matarials docs

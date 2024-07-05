@@ -9,7 +9,7 @@
 - pipeline
 - app.py
 
-Database :
+Database : MongoDB
 ML - Pandas, Python, Numpy
 DL - Pytorch, bert
 Deployment - AWS, Docker
